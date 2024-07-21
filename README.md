@@ -17,7 +17,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/restaurant-data-analysis.git
+git clone(https://github.com/kartikjain1107/Price-Range-vs.-Online-Delivery-and-Table-Booking.git)
 Navigate to the project directory:
 bash
 Copy code
